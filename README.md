@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project is the front-end implementation of the my coupon system. The backend can be found here: https://github.com/rosensha7/coupon-system-spring
+This project is the front-end implementation of the my coupon system. The backend can be found here: https://github.com/rosensha7/coupon-system-spring .
+
 This project was created as part of John Bryce College's "Full Stack Java Development" course.
 
 ## Available Scripts
